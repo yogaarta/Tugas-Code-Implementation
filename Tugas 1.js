@@ -7,9 +7,9 @@ const detectPalindrom = (word) => {
         word2 += word[i]
     }
     if (word.toLowerCase() === word2.toLowerCase()){
-        return console.log("Ini Kata Palindrom")
+        return console.log("Ini kata palindrom")
     }
-    return console.log("Ini bukan kata Palindrom")
+    return console.log("Ini bukan kata palindrom")
 }
 
-detectPalindrom("pagi")
+detectPalindrom("mAlam")

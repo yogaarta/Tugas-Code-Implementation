@@ -17,4 +17,4 @@ const reverseWord = (sentence) => {
     return console.log(result)
 }
 
-reverseWord("Selamat pagi dunia")
+reverseWord("Selamat pagi dunia dan segala isinya")

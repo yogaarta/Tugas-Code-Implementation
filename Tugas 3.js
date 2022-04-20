@@ -43,4 +43,4 @@ const arkFood = (harga, voucher, jarak, pajak) => {
 
 }
 
-arkFood(10000, "ARKAFOOD5", 3, true)
+arkFood(100000, "", 3, true)
